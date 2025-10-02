@@ -1,6 +1,8 @@
 API Data Wilayah Indonesia
 ==========================
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0913e7d1-c0ab-4985-aee3-8dfb12b10528/deploy-status)](https://app.netlify.com/projects/indonesia-region-wendyproject/deploys)
+
 Repository ini berisi source code untuk generate (REST) API statis berisi data wilayah Indonesia
 serta perintah untuk mendeploynya ke _static hosting_ [Github Page](https://pages.github.com/).
 
